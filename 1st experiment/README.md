@@ -1,13 +1,10 @@
 # High-resolution hybrid land-cover mapping #
 Experiment 1 of the Geospatial Usecase
 
-<b> vamos a ver </b> como se edita
-<b> vamos a ver </b> como se edita
-<b> vamos a ver </b> como se edita
+Through multi-temporal imagery from Sentinel 2 MSI sensor a hybrid land-cover classification of Peninsular Spain is done by means
+of advanced analytical remote sensing fusion techniques
 
-<b> vamos a ver </b> como se edita
-
-##Local_scripts##
+## Local_scripts
 
 Script  | Explanation
 ------------- | -------------
@@ -18,3 +15,7 @@ Script  | Explanation
 5_Mask  | Mask the raster inside the area of interest
 6_Vectorization  | Change raster file to vectorial
 7_Classification  | Classify the raster image  
+
+## More_scripts
+
+Other useful scripts for data processing
