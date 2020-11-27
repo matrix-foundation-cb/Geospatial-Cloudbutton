@@ -1,2 +1,2 @@
-# CloudButtom-Geospatial1-2
-Geospatial Experiments 1 and 2 from the CloudButton project
+# 3D fuel mapping for forest risk assessment
+Experiment 2 of the Geospatial Usecase
