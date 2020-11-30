@@ -1,5 +1,5 @@
 # Serverless Code - Lithops #
-Classification in serverless thanks to lithops.
+Implementation of the classification in serverless thanks to lithops. Based on a train model we classify a raster image obtaining 10 different classes predicted. 
 
 
 ## Local_scripts
