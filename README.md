@@ -10,6 +10,7 @@ Folder | Explanation
 2nd experiment  |  3D fuel mapping for forest risk assessment
 Lithops config  | Config file for lithops
 Serverless Code | Implementation of the experiments in lithops
+Testing | Shared scripts for testing lithops
 
 ## Acknowledgements
 
