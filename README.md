@@ -7,8 +7,7 @@
 Folder | Explanation
 ------------- | -------------
 1st experiment  | High-resolution hybrid land-cover mapping
-2nd experiment  |  3D fuel mapping for forest risk assessment
-Serverless Code | Implementation of the experiments in lithops
+2nd experiment  | 3D fuel mapping for forest risk assessment
 Testing | Shared scripts for testing lithops
 
 ## Acknowledgements

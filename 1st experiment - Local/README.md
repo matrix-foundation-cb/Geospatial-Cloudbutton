@@ -4,6 +4,12 @@ Experiment 1 of the Geospatial Usecase
 Through multi-temporal imagery from Sentinel 2 MSI sensor a hybrid land-cover classification of Peninsular Spain is done by means
 of advanced analytical remote sensing fusion techniques
 
+
+Script  | Explanation
+------------- | -------------
+Classification | Full clasification
+Classification_lithops  | Only serverless code
+
 ## Local_scripts
 
 Script  | Explanation
