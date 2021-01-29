@@ -9,7 +9,18 @@ of advanced analytical remote sensing fusion techniques
 Script  | Explanation
 ------------- | -------------
 Experiment1_tutorial| Tutorial of the whole classification process
-Classification_lithops  | Only serverless code
+tester_stackering | Developing stackering process 
+
+For the use of the Experiment1_tutorial is needed a config.txt file like:
+{"serverless": {"backend": " "},
+          "ibm":  {"iam_api_key": " "},
+          "ibm_cf":  {"endpoint": " ",
+                      "namespace": " ",
+                      "namespace_id": " "},
+          "ibm_cos": {"endpoint": " ",
+                      "private_endpoint": " ",
+                      "api_key" : " "},
+          "lithops": {"storage_bucket" : " "}}
 
 ## Local_scripts
 
