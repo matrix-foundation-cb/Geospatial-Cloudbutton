@@ -9,7 +9,7 @@ of advanced analytical remote sensing fusion techniques
 Script  | Explanation
 ------------- | -------------
 Experiment1_tutorial| Tutorial of the whole classification process
-tester_stackering | Developing stackering process 
+Experiment1_tutorial_large_dataset | Same as the previous one but with all the functions for dataprocessing large datasets 
 
 
 ## Local_scripts
